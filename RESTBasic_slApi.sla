@@ -1,0 +1,30 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "CentralGP"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "RESTBasic_slApi"
+            },
+            "notes": {
+                "value": ""
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "f15b8c3f1c397db9a8714afc1e49d9f377db86f27182a30a13db72c37186d810",
+                "key": "account-cloud-managed-60b87b376e0cca3ec9a4c021-2021-06-03T06:48:27-133916+00:00",
+                "sym_iv": "WhXXM146nrsOExtLH57b8g==",
+                "sym_key": "HJ7kiRYQtAy2lOIE4woda7HGQK7C5Wt6t0SGnt5UkgohVkxvfYtAxxiyhRpJguTd3SQa8BgXZc49miazN7oYw/aNWGsoXmvbEOQ0bE7JEX/8+Bp+Rz8RsYnKyLxp3B3AbANsPPzFgrCbOp/+QAcOt1ZDdgfFmCppfqQialnOhFAMtQxdlFH1q0dTCNmwK/woSTxMS8FAAASIZ05OcGKH150f3DYtGVI85RNvs1nOdTY2FAahGwTeJRFvAeoT0dn1Gx1JgBTVSoQBrUQZTA5Wto+GwtdGwG/PCGLJMd1MbxgXJcoDujOCqr7hjB3QWC2WoAogr9XL+17IPtUmRqVjew==",
+                "value": "HCsKyXtnTLjbtjVd8qb6pG7veQ2vioI8oY4M9sewhnU="
+            },
+            "username": {
+                "value": "adm_pdemonaco@central.com"
+            }
+        },
+        "view_serial": 100
+    }
+}
